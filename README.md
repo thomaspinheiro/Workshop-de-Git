@@ -9,5 +9,5 @@ Esse é meu primeiro trabalho com Git
 
 | ITEM | QUANTIDADE |
 | - | - |
-| Feijão | 61 |
+| Feijão | 6 |
 | Arroz | 2 |
