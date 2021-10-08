@@ -1,5 +1,4 @@
 # Workshop de Git
-Dia 07/10/2021  
 Aprendendo com o Workshop de Git realizado pelo grupo Katie da UFAL
 
 - Meu nome é Thomas Gabriel Martins Pinheiro
